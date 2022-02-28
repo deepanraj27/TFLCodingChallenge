@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Deepan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Deepan\\.nuget\\packages"
+    ]
+  }
+}
